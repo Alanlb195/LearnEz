@@ -1,11 +1,11 @@
 {
-  "engines": {
-    "node": ">=12.17.0"
-  },
   "name": "LearnEz",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
+  "engines": {
+    "node": ">=12.x"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
