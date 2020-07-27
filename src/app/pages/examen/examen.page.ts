@@ -68,7 +68,7 @@ export class ExamenPage implements OnInit {
   comprobarRespuesta(respuesta: number) {
     if (respuesta == this.preguntaExamen.respuestaId) {
       this.presentToast("toastGreen", "¡Bien hecho!");
-      this.aciertos ++;
+      this.aciertos++;
     } else {
       this.presentToast("toastRed", "Sigue intentando");
     }
