@@ -33,9 +33,7 @@
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2",
     "@ionic/app-scripts": "3.2.4",
-    "typescript": "~3.8.3"
-  },
-  "devDependencies": {
+    "typescript": "~3.8.3",
     "@angular-devkit/build-angular": "^0.901.11",
     "@angular/cli": "^9.1.11",
     "@angular/compiler": "^9.1.12",
@@ -56,6 +54,8 @@
     "protractor": "~5.4.3",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0"
+  },
+  "devDependencies": {
   },
   "description": "An Ionic project"
 }
